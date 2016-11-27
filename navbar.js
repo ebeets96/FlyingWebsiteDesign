@@ -1,4 +1,8 @@
-// JavaScript Document
+/* 
+ * Navbar Script
+ * Written by: Eric Beets
+ */
+ 
 $(document).ready(function(e) {
 	$("header nav .current").first().attr("id","current");
 	$("header nav ul").hover(function(e){

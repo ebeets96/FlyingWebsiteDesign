@@ -1,4 +1,8 @@
-// JavaScript Document
+/* 
+ * Image Slider Script
+ * Written by: Eric Beets
+ */
+ 
 $(document).ready(function ($) {  
 	var slideCount = $("#slider ul li").length;
 	var slideWidth = 850;
